@@ -2,7 +2,7 @@
 
 🤖 AI & Robotics Student | Building real-world AI + IoT projects
 
-- 🔭 Currently working on: patient tracker
+- 🔭 Currently working on: patient tracker,my portfolio
 - 🌱 Currently learning: Python, Flask, Arduino, Node.js
 - 💬 Ask me about: AI, Robotics, Python
 - 📫 Reach me: vaishnavigupta82200628@gmail.com
